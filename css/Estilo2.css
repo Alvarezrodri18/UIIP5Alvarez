@@ -1,0 +1,46 @@
+.articulos{
+    background-image: url('../imagenes/fondo.jpg');
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    margin-bottom: 10%;
+    
+}
+
+.articulos{
+	padding: 10px;
+}
+.articulos img{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+#p2{
+    width: 450px;
+    height: 200px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 50px;
+    box-sizing: border-box;
+    margin-top: 10%;
+    
+    border-radius: 7px;
+    box-shadow: 0px 5px 35px 0px #838280;
+    margin-block-start: 10%;
+    font-family: monospace;
+    font-family: 'Times New Roman', Times, serif;
+    color: seashell;
+    font-size: 24px;
+    text-align: center;
+}
+
+#h1p2{
+    text-shadow: 5px 5px 10px #000000;
+    margin: 5%;
+    font-family: monospace;
+    font-family: 'Times New Roman', Times, serif;
+    color: seashell;
+    font-size: 24px;
+    text-align: center;
+}
